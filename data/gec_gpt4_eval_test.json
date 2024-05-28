@@ -1,0 +1,1208 @@
+[
+  {
+    "input": "original sentence: So I think we can not live if old people could not find siences and tecnologies and they did not developped ., corrected sentence: So I think we would not be alive if our ancestors did not develop sciences and technologies .",
+    "output": "semantic coherence: 7, edit level: 10, fluency: 9, overall: 8",
+    "id": 1,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: So I think we can not live if old people could not find siences and tecnologies and they did not developped ., corrected sentence: So I think we could not live if older people did not develop science and technologies .",
+    "output": "semantic coherence: 8, edit level: 9, fluency: 8, overall: 8",
+    "id": 2,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: So I think we can not live if old people could not find siences and tecnologies and they did not developped ., corrected sentence: So I think we can not live if old people could not find science and technologies and they did not develop .",
+    "output": "semantic coherence: 6, edit level: 8, fluency: 7, overall: 8",
+    "id": 3,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: So I think we can not live if old people could not find siences and tecnologies and they did not developped ., corrected sentence: So I think we can not live if old people can not find the science and technology that has not been developed .",
+    "output": "semantic coherence: 6, edit level: 7, fluency: 6, overall: 6",
+    "id": 4,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: For not use car ., corrected sentence: Not for use with a car .",
+    "output": "semantic coherence: 7, edit level: 6, fluency: 8, overall: 7",
+    "id": 5,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: For not use car ., corrected sentence: Do not use in the car .",
+    "output": "semantic coherence: 10, edit level: 7, fluency: 9, overall: 8",
+    "id": 6,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: For not use car ., corrected sentence: Car not for use .",
+    "output": "semantic coherence: 2, edit level: 4, fluency: 6, overall: 4",
+    "id": 7,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: For not use car ., corrected sentence: Can not use the car .",
+    "output": "semantic coherence: 5, edit level: 9, fluency: 10, overall: 5",
+    "id": 8,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Here was no promise of morning except that we looked up through the trees we saw how low the forest had swung ., corrected sentence: Here was no promise of morning , except that we looked up through the trees , and we saw how low the forest had swung .",
+    "output": "semantic coherence: 10, edit level: 8, fluency: 8, overall: 8",
+    "id": 9,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Here was no promise of morning except that we looked up through the trees we saw how low the forest had swung ., corrected sentence: Here was no promise of morning except that we looked up through the trees and we saw how low the forest had swung .",
+    "output": "semantic coherence: 10, edit level: 8, fluency: 9, overall: 9",
+    "id": 10,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Here was no promise of morning except that we looked up through the trees we saw how low the forest had swung ., corrected sentence: There was no promise of morning except when we looked up through the trees and saw how low the forest had swung .",
+    "output": "semantic coherence: 9, edit level: 10, fluency: 10, overall: 9",
+    "id": 11,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Thus even today sex is considered as the least important topic in many parts of India ., corrected sentence: Thus , even today , sex is considered as the least important topic in may parts of India .",
+    "output": "semantic coherence: 9, edit level: 6, fluency: 8, overall: 7",
+    "id": 12,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Thus even today sex is considered as the least important topic in many parts of India ., corrected sentence: Thus , even today , sex is considered the least important topic in many parts of India .",
+    "output": "semantic coherence: 10, edit level: 10, fluency: 10, overall: 10",
+    "id": 13,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: image you salf you are wark in factory just to do one thing like pot taire on car if they fire you you will destroy , becouse u dont know more than pot taire in car ., corrected sentence: Imagine yourself you are working in factory just to do one thing like put air a on car if they fire you you will be destroyed , because you do n't know more than to put air a in car .",
+    "output": "semantic coherence: 5, edit level: 4, fluency: 5, overall: 4",
+    "id": 14,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: image you salf you are wark in factory just to do one thing like pot taire on car if they fire you you will destroy , becouse u dont know more than pot taire in car ., corrected sentence: Imagine yourself working in a factory. You are to do just one thing, such as put a tire on a car. If you are fired, it will destroy you because you do not know how to do more than put tires on cars.",
+    "output": "semantic coherence: 9, edit level: 9, fluency: 9, overall: 9",
+    "id": 15,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: They draw the consumers , like me , to purchase this great product with all these amazing ingredients and all that but actually they just sometimes make something up just to increase their sales ., corrected sentence: They draw in the consumers, like me, to purchase a great product with amazing ingredients, but actually, they just make up these words to increase their sales.",
+    "output": "semantic coherence: 8, edit level: 8, fluency: 8, overall: 8",
+    "id": 16,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: They draw the consumers , like me , to purchase this great product with all these amazing ingredients and all that but actually they just sometimes make something up just to increase their sales ., corrected sentence: They draw in consumers like me, who purchase this great product with all these amazing ingredients, but sometimes they just make things up to increase their sales.",
+    "output": "semantic coherence: 10, edit level: 10, fluency: 9, overall: 9",
+    "id": 17,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: They draw the consumers , like me , to purchase this great product with all these amazing ingredients and all that but actually they just sometimes make something up just to increase their sales ., corrected sentence: They draw the consumers, like me, to purchase this great product with all these amazing features, but actually sometimes they just make something up just to increase their sales.",
+    "output": "semantic coherence: 9, edit level: 8, fluency: 9, overall: 8",
+    "id": 18,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: They draw the consumers , like me , to purchase this great product with all these amazing ingredients and all that but actually they just sometimes make something up just to increase their sales ., corrected sentence: They draw the consumers, like me, to purchase this great product with all these amazing ingredients and all that, but actually they just sometimes make something up just to increase their sales.",
+    "output": "semantic coherence: 10, edit level: 10, fluency: 7, overall: 9",
+    "id": 19,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: I want to talk about nocive or bad products like alcohol , hair spray and cigarrets ., corrected sentence: I want to talk about nocive or bad products like alcohol , hair spray and cigarettes .",
+    "output": "semantic coherence: 7, edit level: 10, fluency: 10, overall: 7",
+    "id": 20,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: For example they can play football whenever they want but the olders can not ., corrected sentence: For example , they can play football whenever they want , but the elders cannot .",
+    "output": "semantic coherence: 9, edit level: 10, fluency: 10, overall: 9",
+    "id": 21,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: For example they can play football whenever they want but the olders can not ., corrected sentence: For example , they can play football whenever they want but the others can not .",
+    "output": "semantic coherence: 7, edit level: 10, fluency: 10, overall: 8",
+    "id": 22,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: For example they can play football whenever they want but the olders can not ., corrected sentence: For example , they can play football whenever they want but the seniors can't .",
+    "output": "semantic coherence: 10, edit level: 10, fluency: 10, overall: 10",
+    "id": 23,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: For example they can play football whenever they want but the olders can not ., corrected sentence: For example they can play football whenever they want but the older ones cannot .",
+    "output": "semantic coherence: 10, edit level: 10, fluency: 9, overall: 9",
+    "id": 24,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: It figures Diana Krall wearing a Rolex watch and has a text that suggests that if the reader wants to belong to the restricted club , not necessarily of Rolex watch wearers , but of highly talented , sophisticated and competent artists , he or she should also have a Rolex ., corrected sentence: It features Diana Krall wearing a Rolex watch and the text suggests that if the reader wants to belong to a restricted club -- not necessarily of Rolex watch-wearers -- but of highly talented , sophisticated , competent artists , then he or she should also have a Rolex .",
+    "output": "semantic coherence: 10, edit level: 10, fluency: 9, overall: 9",
+    "id": 25,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: It figures Diana Krall wearing a Rolex watch and has a text that suggests that if the reader wants to belong to the restricted club , not necessarily of Rolex watch wearers , but of highly talented , sophisticated and competent artists , he or she should also have a Rolex ., corrected sentence: Diana Krall is wearing a Rolex watch and has a text that suggests that if the reader wants to belong to a restricted club , comprised not just of Rolex watch wearers but highly talented , sophisticated and competent artists , he or she should also have a Rolex .",
+    "output": "semantic coherence: 8, edit level: 10, fluency: 9, overall: 9",
+    "id": 26,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: It figures Diana Krall wearing a Rolex watch and has a text that suggests that if the reader wants to belong to the restricted club , not necessarily of Rolex watch wearers , but of highly talented , sophisticated and competent artists , he or she should also have a Rolex ., corrected sentence: It figures Diana Krall is wearing a Rolex watch and has a text that suggests that if the reader wants to belong to the restricted club , not necessarily of Rolex watch wearers , but of highly talented , sophisticated and competent artists , he or she should also have a Rolex .",
+    "output": "semantic coherence: 7, edit level: 6, fluency: 6, overall: 6",
+    "id": 27,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: There are several reason ., corrected sentence: There are several reasons .",
+    "output": "semantic coherence: 10, edit level: 10, fluency: 10, overall: 10",
+    "id": 28,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Also the work of the media , television , magazines , and every stuff made for publicity affects the emotions of many people around the world , encouraging them to buy and buy anything they can ., corrected sentence: Also , the work of the media , television , magazines and other things made for publicity impacts the emotions of many people around the world , encouraging them to buy everything they can .",
+    "output": "semantic coherence: 8, edit level: 9, fluency: 9, overall: 8",
+    "id": 29,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Also the work of the media , television , magazines , and every stuff made for publicity affects the emotions of many people around the world , encouraging them to buy and buy anything they can ., corrected sentence: Also , the work of the media , television , magazines , and everything involved in publicity affects the emotions of people around the world , encouraging them to buy anything they can .",
+    "output": "semantic coherence: 10, edit level: 10, fluency: 10, overall: 10",
+    "id": 30,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Also the work of the media , television , magazines , and every stuff made for publicity affects the emotions of many people around the world , encouraging them to buy and buy anything they can ., corrected sentence: Also , the work of media , television , magazines , and other stuff made for publicity , affects the emotions of many people around the world , encouraging them to buy and buy anything they can .",
+    "output": "semantic coherence: 9, edit level: 8, fluency: 7, overall: 8",
+    "id": 31,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Also the work of the media , television , magazines , and every stuff made for publicity affects the emotions of many people around the world , encouraging them to buy and buy anything they can ., corrected sentence: Also , the work of the media , television , magazines , and everything made for publicity affects the emotions of many people around the world , encouraging them to buy and buy anything they can .",
+    "output": "semantic coherence: 9, edit level: 10, fluency: 9, overall: 10",
+    "id": 32,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Since most urban areas are occupied with cars , they are all facing up with an irresistible problem of air and noise pollution ., corrected sentence: Since most urban areas are occupied with cars , they are facing a problem of air and noise pollution .",
+    "output": "semantic coherence: 10, edit level: 10, fluency: 10, overall: 10",
+    "id": 33,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Since most urban areas are occupied with cars , they are all facing up with an irresistible problem of air and noise pollution ., corrected sentence: Since most urban areas are congested with cars , they all face the terrible problem of air and noise pollution .",
+    "output": "semantic coherence: 9, edit level: 10, fluency: 9, overall: 9",
+    "id": 34,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Since most urban areas are occupied with cars , they are all facing up with an irresistible problem of air and noise pollution ., corrected sentence: Since most urban areas are occupied with cars , they are all face upped with an irresistible problem of air and noise pollution .",
+    "output": "semantic coherence: 5, edit level: 2, fluency: 2, overall: 3",
+    "id": 35,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Since most urban areas are occupied with cars , they are all facing up with an irresistible problem of air and noise pollution ., corrected sentence: Since most urban areas are teeming with cars , they are all facing the unavoidable problem of air and noise pollution .",
+    "output": "semantic coherence: 10, edit level: 10, fluency: 10, overall: 10",
+    "id": 36,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: It is true that consumers preffer to buy a product that has a lower price , but when international companies that has already the certification begins to send its market , people will preffer to consume theirs because the difference between prices is probbably not going to affect them to much ., corrected sentence: It is true that consumers prefer to buy a product that has a lower price , but when international companies that already have the certification begin to send it to market , people will prefer to buy theirs because the difference between prices is probably not going to affect them too much .",
+    "output": "semantic coherence: 10, edit level: 9, fluency: 9, overall: 9",
+    "id": 37,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: It is true that consumers preffer to buy a product that has a lower price , but when international companies that has already the certification begins to send its market , people will preffer to consume theirs because the difference between prices is probbably not going to affect them to much ., corrected sentence: It is true that consumers prefer to buy a product that has a lower price , but when international companies that already have the certification begin to send it to market , people will prefer to consume theirs because the difference between prices is probably not going to affect them too much .",
+    "output": "semantic coherence: 10, edit level: 9, fluency: 9, overall: 9",
+    "id": 38,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: 4:they have a big chance to prepare for their future life, corrected sentence: Fourth , they have a great chance to prepare for their future life .",
+    "output": "semantic coherence: 8, edit level: 9, fluency: 9, overall: 7",
+    "id": 39,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: 4:they have a big chance to prepare for their future life, corrected sentence: Point four is that they have a big chance to prepare for their future life .",
+    "output": "semantic coherence: 7, edit level: 9, fluency: 7, overall: 7",
+    "id": 40,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: One person if do n't have good health that means so many things they could lost ., corrected sentence: If a person does n't have good health , so many things could be lost .",
+    "output": "semantic coherence: 8, edit level: 9, fluency: 9, overall: 7",
+    "id": 41,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: One person if do n't have good health that means so many things they could lost ., corrected sentence: If one person does n't have good health , that means so many things they could lose .",
+    "output": "semantic coherence: 9, edit level: 9, fluency: 9, overall: 6",
+    "id": 42,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Many studies over the last 5 0 years have shown that people who have fluoride in their drinking water are considerably have less cavities than people who have not drinking nonfluoridated water ., corrected sentence: Many studies over the last 5 0 years have shown that people who have fluoride in their drinking water are considerably have less cavities than people who have not drinking nonfluoridated water .",
+    "output": "semantic coherence: 10, edit level: 3, fluency: 3, overall: 3",
+    "id": 43,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Many studies over the last 5 0 years have shown that people who have fluoride in their drinking water are considerably have less cavities than people who have not drinking nonfluoridated water ., corrected sentence: Many studies over the last 50 years have shown that people who have fluoride in their drinking water have considerably fewer cavities than people who have been drinking non-fluoridated water .",
+    "output": "semantic coherence: 10, edit level: 10, fluency: 10, overall: 10",
+    "id": 44,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Likewise , The theory generating from the concept of memory is also not the appropriate way due to limited memory ., corrected sentence: Likewise , the theory coming from the concept of memory is also not the appropriate way due to limited memory .",
+    "output": "semantic coherence: 8, edit level: 7, fluency: 7, overall: 7",
+    "id": 45,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Likewise , The theory generating from the concept of memory is also not the appropriate way due to limited memory ., corrected sentence: Likewise , the theory generated from the concept of memory is also not appropriate due to limited memory .",
+    "output": "semantic coherence: 10, edit level: 10, fluency: 10, overall: 10",
+    "id": 46,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Likewise , The theory generating from the concept of memory is also not the appropriate way due to limited memory ., corrected sentence: Likewise , the theory generating from the concept of memory is also not the appropriate way due to limited memory .",
+    "output": "semantic coherence: 10, edit level: 10, fluency: 4, overall: 6",
+    "id": 47,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: because they spent time unmeaningful subjects ., corrected sentence: They spent time in subjects that were not meaningful .",
+    "output": "semantic coherence: 8, edit level: 10, fluency: 10, overall: 9",
+    "id": 48,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: because they spent time unmeaningful subjects ., corrected sentence: They spent time on unmeaningful subjects .",
+    "output": "semantic coherence: 6, edit level: 9, fluency: 9, overall: 8",
+    "id": 49,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: because they spent time unmeaningful subjects ., corrected sentence: Because they spent time on unmeaningful subjects .",
+    "output": "semantic coherence: 10, edit level: 9, fluency: 9, overall: 9",
+    "id": 50,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: I was very fast , my best time was 5 5 seconds in 4 0 0 hundred meters is a good time in or country ., corrected sentence: I was very fast : my best time was 55 seconds in 400 hundred meters, and this is a good time in my country .",
+    "output": "semantic coherence: 10, edit level: 8, fluency: 9, overall: 9",
+    "id": 51,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: And young people spend time more ther lifestile ., corrected sentence: And young people spend more time on their lifestyles .",
+    "output": "semantic coherence: 10, edit level: 10, fluency: 10, overall: 10",
+    "id": 55,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: If in this society who will not to do study they never concept there opportunity or ca n't understand any ideas so most of the important that in this situation and I also very interestion and also prefer that for the study material ., corrected sentence: If, in this society, there are those who will not study, then they neither comprehend their opportunity nor understand any ideas most important in this situation, which I find very interesting and prefer for study material.",
+    "output": "semantic coherence: 8, edit level: 9, fluency: 7, overall: 8",
+    "id": 58,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: We have to know this problem it 's serious but almost people doens't know about this ., corrected sentence: We have to know if this problem is serious but most people don't know about it.",
+    "output": "semantic coherence: 8, edit level: 9, fluency: 9, overall: 8",
+    "id": 60,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Students can focus on only a few subjects they are intwerested in and they will become an experts in those areas ., corrected sentence: Students can focus on only a few subjects they are interested in and they will become an expert in those areas.",
+    "output": "semantic coherence: 10, edit level: 7, fluency: 10, overall: 8",
+    "id": 61,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: But in other waythismakes other way country need to pay extra money to make , repair the roads What they did is reduce the amount of gas consumers , high the gas tax , and low the income tax because they thought , only rise the gas tax is unfair ., corrected sentence: But in another way, this means the country needs to pay extra money to build and repair the roads; what they did is reduce the amount of gas consumed, raise the gas tax, and lower the income tax because they thought only raising the gas tax is unfair.",
+    "output": "semantic coherence: 8, edit level: 8, fluency: 7, overall: 7",
+    "id": 62,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: In the case of young people the best way is studying as hard as possible to get better grades so in the future they will have better chance to find better jobs., corrected sentence: In the case of young people, the best way is to study as hard as possible to get better grades so in the future they will have a better chance to find a good job.",
+    "output": "semantic coherence: 10, edit level: 10, fluency: 9, overall: 9",
+    "id": 66,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: So the school try learning the students a bit in every science exist., corrected sentence: So the school tried teaching the students a bit about every science that exists.",
+    "output": "semantic coherence: 7, edit level: 8, fluency: 8, overall: 7",
+    "id": 69,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: I think they have to get skill on it., corrected sentence: I think they have to put skill into it.",
+    "output": "semantic coherence: 4, edit level: 5, fluency: 6, overall: 5",
+    "id": 70,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Specializing in one particular subject does not suit our life in this era which is characterized by diversity and innovation., corrected sentence: Specializing in one particular subject does not suit life in this era -- which is characterized by diversity and innovation.",
+    "output": "semantic coherence: 9, edit level: 9, fluency: 9, overall: 9",
+    "id": 72,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: I will explain my points of views in the following paragraphs., corrected sentence: I will explain my point of views in the following paragraphs.",
+    "output": "semantic coherence: 10, edit level: 10, fluency: 5, overall: 5",
+    "id": 73,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: He thinks differently from other people and he succeded ., corrected sentence: He thinks differently than other people and he succeeded .",
+    "output": "semantic coherence: 10, edit level: 9, fluency: 9, overall: 9",
+    "id": 74,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: These activities make the community a better place to live in and inculcate these values in all the members ., corrected sentence: These activities make the community a better place to live and include those values in all the members .",
+    "output": "semantic coherence: 7, edit level: 7, fluency: 8, overall: 7",
+    "id": 75,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Beacuse all those broad knowledge help they to understand their major in university as well as help they to make a correct choice in specializing study ., corrected sentence: All the broad knowledge helps them to understand their major in University classes, as well as help them to make a correct choice in a specialized area .",
+    "output": "semantic coherence: 7, edit level: 8, fluency: 8, overall: 8",
+    "id": 76,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: And it was very easy to me to understand why he always brang bad marks at home ., corrected sentence: And it was very easy for me to understand why he always bringing bad marks home .",
+    "output": "semantic coherence: 8, edit level: 6, fluency: 5, overall: 6",
+    "id": 79,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Then when we went to the Science Olympiad, she could have diverse knowledges about the subects and it was not new for her to think about new things., corrected sentence: Then, when we went to the Science Olympiad, she would have diverse knowledge about the subjects and it would not be new for her to think about new things.",
+    "output": "semantic coherence: 8, edit level: 10, fluency: 9, overall: 9",
+    "id": 80,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: If every people thinks to learn and understand lots of scientifc subjects, any person will do not do it and as a result of this any science is n't imporeved., corrected sentence: If every person tries to learn and understand lots of scientific subjects, no person will do it and, as a result of this, no science will be improved.",
+    "output": "semantic coherence: 5, edit level: 10, fluency: 7, overall: 7",
+    "id": 81,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: If every people thinks to learn and understand lots of scientifc subjects, any person will do not do it and as a result of this any science is n't imporeved., corrected sentence: If every person wants to learn and understand lots of scientific subjects, not every person will be able to do it and as a result of this science isn't improved.",
+    "output": "semantic coherence: 7, edit level: 10, fluency: 8, overall: 8",
+    "id": 84,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Third the butt it in the front of the door of store to make the poeple see it even if it is not good, corrected sentence: Third, the butt in the front of the door of the store to make the people see it even if it is not good.",
+    "output": "semantic coherence: 3, edit level: 10, fluency: 4, overall: 5",
+    "id": 86,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: However , are these things all good to people ?, corrected sentence: However, are these things good to all people?",
+    "output": "semantic coherence: 10, edit level: 8, fluency: 10, overall: 8",
+    "id": 87,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: In the lecture , however , professor oppose the reading statement ., corrected sentence: In the lecture, however, the professor opposed reading the statement.",
+    "output": "semantic coherence: 6, edit level: 10, fluency: 8, overall: 7",
+    "id": 89,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: But YOU have to create these opportunities ., corrected sentence: But YOU have to create these opportunities.",
+    "output": "semantic coherence: 10, edit level: 7, fluency: 7, overall: 8",
+    "id": 90,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Throughts our lives needs talk about our familys ., corrected sentence: Throughout our lives we needs talk about our families.",
+    "output": "semantic coherence: 9, edit level: 10, fluency: 6, overall: 7",
+    "id": 91,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Inorder to do this , they would need to learn additionally skills , either theoretical or practical , that would increase their understanding and future application of their chosen subject ., corrected sentence: In order to do this, they would need to learn additionally skills, either theoretical or practical, that would increase their understanding and future application of their chosen subject.",
+    "output": "semantic coherence: 8, edit level: 10, fluency: 6, overall: 7",
+    "id": 93,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: if you want a product you give create a beautiful image around it if you want sell it ., corrected sentence: if you want to develop a product you create a beautiful image around it if you want sell it .",
+    "output": "semantic coherence: 8, edit level: 10, fluency: 5, overall: 6",
+    "id": 94,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Secondly the place of the film must must be very clear and chir must be relax etc ., corrected sentence: Secondly, the location of the film must must be very clear and the director must be relaxed, etc.",
+    "output": "semantic coherence: 6, edit level: 6, fluency: 7, overall: 6",
+    "id": 96,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Secondly the place of the film must must be very clear and chir must be relax etc ., corrected sentence: Secondly, the place of the film must be very clear and chaimust be relax etc.",
+    "output": "semantic coherence: 3, edit level: 9, fluency: 3, overall: 4",
+    "id": 98,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: and will put you maind on a non-stop learning ..., corrected sentence: And it will put your mind into non-stop learning.",
+    "output": "semantic coherence: 10, edit level: 9, fluency: 9, overall: 9",
+    "id": 100,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: In today 's Compuer skill is first important life skill ., corrected sentence: In today's world Computer skills are the first important life skill.",
+    "output": "semantic coherence: 8, edit level: 9, fluency: 9, overall: 8",
+    "id": 103,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Young has his own field and word on it hard, and do more benefits to the society., corrected sentence: Young has his own field, has worked on it hard, and does more to benefit to the society.",
+    "output": "semantic coherence: 9, edit level: 7, fluency: 6, overall: 7",
+    "id": 105,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: and about the new information there is editors., corrected sentence: And about the new information, there are editors.",
+    "output": "semantic coherence: 8, edit level: 8, fluency: 7, overall: 8",
+    "id": 107,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: He/she wants to know everything about the universe, wants to know everything about the God, the death etc. these some concepts that everyone can encourage a lot of ideas but the facts are not found yet., corrected sentence: He/she wants to know everything about the universe, everything about God, death etc.; these same concepts that encourage a lot of ideas but the facts are not found yet.",
+    "output": "semantic coherence: 6, edit level: 7, fluency: 7, overall: 6",
+    "id": 109,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: It so expensive that only those people can do this besides of their allday living., corrected sentence: It is so expensive that it is the only thing those people can do besides their daily living.",
+    "output": "semantic coherence: 5, edit level: 8, fluency: 7, overall: 6",
+    "id": 111,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: So he took upon himself to narrow his research on this subject which was a mystery to the world., corrected sentence: So he took it upon himself to narrow his research to a subject which was a mystery to the world.",
+    "output": "semantic coherence: 9, edit level: 9, fluency: 9, overall: 8",
+    "id": 112,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Others who do n't have this concept they will sell uncerfied wood ., corrected sentence: Others who don't understand this concept sell uncertified wood.",
+    "output": "semantic coherence: 8, edit level: 9, fluency: 9, overall: 9",
+    "id": 113,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: If there are specialized docters, the docter has done the operation very often before, so he is really talented in his job., corrected sentence: If there are specialized doctors that have done the operation often, he becomes talented in his job.",
+    "output": "semantic coherence: 7, edit level: 8, fluency: 7, overall: 7",
+    "id": 115,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: So It will be good situstion., corrected sentence: It will be good situation.",
+    "output": "semantic coherence: 7, edit level: 10, fluency: 6, overall: 7",
+    "id": 117,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Also, I have traveled in a group without tour guide., corrected sentence: Also, I have traveled in a group without tour guide.",
+    "output": "semantic coherence: 10, edit level: 10, fluency: 4, overall: 5",
+    "id": 118,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: the school teachers there the one who take the future of youg genaration so we have to give them to get the better knowledge., corrected sentence: The school teachers they're the ones who take the future young generations so we have to support them to make younger ones more knowledgeable.",
+    "output": "semantic coherence: 7, edit level: 7, fluency: 6, overall: 6",
+    "id": 120,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: so this test is very important with theirs., corrected sentence: This test is very important to them.",
+    "output": "semantic coherence: 7, edit level: 9, fluency: 9, overall: 8",
+    "id": 123,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: but most time it is important because most student is not baly and his think and ideas is very important., corrected sentence: But most of the time it is important because most student do not do badly and their thoughts and ideas are very important.",
+    "output": "semantic coherence: 8, edit level: 7, fluency: 8, overall: 7",
+    "id": 126,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: I myself like to participate in kind of activities and meet many people who would like to do., corrected sentence: I personally like to participate in all kinds of activities and meet many people like to as well.",
+    "output": "semantic coherence: 10, edit level: 7, fluency: 7, overall: 7",
+    "id": 128,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Second the amount of treasure locations are implausibly large., corrected sentence: Second, the amount of treasure locations is implausibly large.",
+    "output": "semantic coherence: 9, edit level: 8, fluency: 9, overall: 9",
+    "id": 129,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: He mainly concetrate on the questions asked him at the time of interview., corrected sentence: He mainly concentrates on the questions asked him at the time of the interview.",
+    "output": "semantic coherence: 9, edit level: 7, fluency: 9, overall: 8",
+    "id": 132,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: In a market economy the price must reflect costs of the product and consumer 's willingness to buy the product., corrected sentence: In a market economy the price must reflect the cost of the product and the consumer's willingness to buy it.",
+    "output": "semantic coherence: 10, edit level: 10, fluency: 8, overall: 9",
+    "id": 133,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: some tour guide who will want to set maximum security make tour difficult because you will only have a wonderful view throught the bus., corrected sentence: Some tour guide will want to set maximum security to make the tour difficult because you will only have a wonderful view through the bus.",
+    "output": "semantic coherence: 7, edit level: 10, fluency: 7, overall: 7",
+    "id": 134,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: It is obvious that after returning i was tired and the night is meant to sleep ! ., corrected sentence: It was obvious after returning that I was tired, and the night is meant to sleep!",
+    "output": "semantic coherence: 7, edit level: 10, fluency: 7, overall: 7",
+    "id": 138,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Establishing connections with other researchers will open the door for new projects with other researchers ., corrected sentence: Establishing connections with other researchers will open the door to new projects with other researchers.",
+    "output": "semantic coherence: 7, edit level: 10, fluency: 7, overall: 7",
+    "id": 140,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Furthermore, my friends who are nineteen years old, drive their own car, and they would like to buy always another one., corrected sentence: Furthermore, my friends who are nineteen years old and drive their own car, they would still like to buy another one.",
+    "output": "semantic coherence: 10, edit level: 4, fluency: 4, overall: 4",
+    "id": 141,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: There can not be no bothering and no hazzle., corrected sentence: There cannot be bothered or hassled.",
+    "output": "semantic coherence: 7, edit level: 7, fluency: 10, overall: 8",
+    "id": 142,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Even though she does not have job, she also need car to use pick up her kids or go shopping., corrected sentence: Even though she does not have job, she also needs a car to use to pick up her kids or go shopping.",
+    "output": "semantic coherence: 7, edit level: 10, fluency: 8, overall: 8",
+    "id": 143,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Because one time you get success and next time will why not?, corrected sentence: Once you get success why would you not get it next time?",
+    "output": "semantic coherence: 8, edit level: 9, fluency: 9, overall: 8",
+    "id": 145,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: I would like to initiate, myself, whatever I do on my trip to get much out of my trip., corrected sentence: I would like to initiate myself and whatever I choose do on the trip to get the most out of it.",
+    "output": "semantic coherence: 9, edit level: 10, fluency: 6, overall: 7",
+    "id": 148,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: It's normal: propose something to the client and construct something different, is the best way (and it's legal!!!!!!!!!!), corrected sentence: It's normal, propose something to the client and make something different, it's the best way and it's legal!",
+    "output": "semantic coherence: 7, edit level: 6, fluency: 6, overall: 6",
+    "id": 149,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: for example: a man whose hobbies is playing football, he must want to play the ball day until night and night until day again., corrected sentence: For example, a man whose hobbies is playing football must want to play day until night and night until day again.",
+    "output": "semantic coherence: 9, edit level: 10, fluency: 6, overall: 7",
+    "id": 151,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: we grip on many subject we get ample exopsure greatly and easily ., corrected sentence: We read on many subjects so we get ample exposure.",
+    "output": "semantic coherence: 5, edit level: 10, fluency: 9, overall: 8",
+    "id": 152,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: But on the other hand ther is also people that is often convinced by the interesting advertisements they see everywhere, becuase of this many times they have to face problems with the product that they bought and many times ther is no way to give back that product., corrected sentence: But on the other hand there are also people that are often convinced by the interesting advertisements they see everywhere, because of this many times they have to face problems with the product that they bought and many times there is no way to give back that product.",
+    "output": "semantic coherence: 10, edit level: 9, fluency: 9, overall: 9",
+    "id": 156,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: They take responsible the future of their society and the results , it can the most helpful thing for society ., corrected sentence: They take responsibility of the future of their society and the results, it can the most helpful thing for society.",
+    "output": "semantic coherence: 9, edit level: 8, fluency: 8, overall: 8",
+    "id": 157,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: and you can change your views and ideas but you can not change ypu fact ., corrected sentence: You can change your views and ideas but you cannot change your facts.",
+    "output": "semantic coherence: 8, edit level: 9, fluency: 9, overall: 8",
+    "id": 158,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: When I go to travel to see something I want , we do not know about when it is open or close even though I study before , it might be suddenly close ., corrected sentence: When I go to travel to see something I want to see, we do not know when it is opened or closed even though I'll study beforehand, and so it might suddenly be closed.",
+    "output": "semantic coherence: 9, edit level: 9, fluency: 8, overall: 8",
+    "id": 159,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Its cost is half than other but lifecycle is the same ., corrected sentence: Its cost is half than the other but its life cycle is the same.",
+    "output": "semantic coherence: 9, edit level: 9, fluency: 6, overall: 7",
+    "id": 161,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: There can be any other theories about migrating reason and about the methods of migrating ., corrected sentence: There can be other theories about the reason for migrating and about the methods of migrating.",
+    "output": "semantic coherence: 9, edit level: 9, fluency: 8, overall: 8",
+    "id": 163,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Video is convenient , but , if teachers concern about students , so using texetbooks gives good ability for students ., corrected sentence: Video is convenient, but if teachers are concerned about students, using textbooks is a good ability for students.",
+    "output": "semantic coherence: 8, edit level: 10, fluency: 7, overall: 7",
+    "id": 164,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: They tend to restrict traffic in certain days , hours , increasing parking fees , etc ., corrected sentence: They tend to restrict traffic during certain days and hours by increasing parking fees, etc.",
+    "output": "semantic coherence: 7, edit level: 7, fluency: 8, overall: 7",
+    "id": 167,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: I am really sorry to continue like this but right now i am taking the test in a room with 5 more person other than me and we all are taking the test with the computer ., corrected sentence: I am really sorry to continue like this, but right now I am taking the test in a room with five other people and we are all taking the test on a computer.",
+    "output": "semantic coherence: 8, edit level: 9, fluency: 9, overall: 8",
+    "id": 168,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: I am really sorry to continue like this but right now i am taking the test in a room with 5 more person other than me and we all are taking the test with the computer ., corrected sentence: I am really sorry to continue like this, but right now I am taking the test in a room with 5 other persons, and we are all taking the test on the computer.",
+    "output": "semantic coherence: 9, edit level: 10, fluency: 7, overall: 7",
+    "id": 170,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Examples : If the good skill people do some thing wrong ways and they got good respond like thife , robber , stolen , criminal and make problems to another people ., corrected sentence: For example, if the good, skilled people do something wrong, they do not respond like a thief, robber, or criminal and make problems for other people.",
+    "output": "semantic coherence: 4, edit level: 8, fluency: 7, overall: 5",
+    "id": 171,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Then , how about if the talkkative explains the project errounuosly ?, corrected sentence: Then, how about if the teacher explains the project erroneously?",
+    "output": "semantic coherence: 6, edit level: 9, fluency: 10, overall: 7",
+    "id": 172,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Although the weatherrealted factors could be considered , such as the land shape of the area ., corrected sentence: Although the weather related factors, such as the land shape of the area, could be considered.",
+    "output": "semantic coherence: 10, edit level: 9, fluency: 8, overall: 8",
+    "id": 173,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: The one of the reason that the fish is important is the fish can be a important bay for livestock and poultry ., corrected sentence: One of the reasons that fish is important is that it can be an important buoy for livestock and poultry.",
+    "output": "semantic coherence: 1, edit level: 7, fluency: 5, overall: 4",
+    "id": 174,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Once the policy mention in the reading passage ., corrected sentence: The policy is mentioned in the passage.",
+    "output": "semantic coherence: 7, edit level: 10, fluency: 10, overall: 8",
+    "id": 176,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Such unwritten law is very furious , but our world is the furious ., corrected sentence: Such unwritten law is furious, but our world is furious.",
+    "output": "semantic coherence: 9, edit level: 9, fluency: 6, overall: 7",
+    "id": 177,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Think about creates a fire break ., corrected sentence: Think about and create a fire escape plan.",
+    "output": "semantic coherence: 4, edit level: 7, fluency: 9, overall: 5",
+    "id": 179,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: finally the third cause that birds use a type of internal compass , birds have crystals of the mineral magetite embedded in their break ., corrected sentence: Finally, the third cause is that birds use a type of internal compass, so birds have crystals of the mineral magnetite embedded in their break.",
+    "output": "semantic coherence: 8, edit level: 10, fluency: 8, overall: 8",
+    "id": 180,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: If the teacher teach them that they will go to study about that ., corrected sentence: If the teacher taught them, they will know to study it.",
+    "output": "semantic coherence: 6, edit level: 6, fluency: 7, overall: 6",
+    "id": 182,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Just searching the internet , and we will find out what we want , no matter how books will stimulated our imagination and how high quality the book it is ., corrected sentence: Just search the internet and we will find what we want, no matter how many books stimulate our imagination or how high quality the book is.",
+    "output": "semantic coherence: 8, edit level: 9, fluency: 9, overall: 8",
+    "id": 184,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: In this case student learn a concept and it is possible to use in other fields ., corrected sentence: In this case students learn a concept that is possible to use in other fields.",
+    "output": "semantic coherence: 10, edit level: 10, fluency: 8, overall: 8",
+    "id": 185,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: The lecture says it is more important to provide enough fishes to people., corrected sentence: The lecture says it is more important to provide enough fishes to people.",
+    "output": "semantic coherence: 10, edit level: 10, fluency: 7, overall: 7",
+    "id": 186,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: On the other hand each academic field needs specialists in order to progress., corrected sentence: On the other hand each academic field needs experts in order to progress.",
+    "output": "semantic coherence: 9, edit level: 7, fluency: 8, overall: 8",
+    "id": 187,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: By using new things, which is usually is unknown for them and it includes risk with it., corrected sentence: By using new things what are usually unknown to them, they are taking a risk.",
+    "output": "semantic coherence: 6, edit level: 8, fluency: 4, overall: 5",
+    "id": 188,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: You can see that inmany books, news, newspaper, TV, computer., corrected sentence: You can see that in many books, the news, newspapers, TVs and computers.",
+    "output": "semantic coherence: 9, edit level: 10, fluency: 7, overall: 7",
+    "id": 190,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: When many people were very young, they must have mang time to learn knowlegable, They donnot have much time to enjoy life as much as posssbale., corrected sentence: When many people were very young, they must have made time to learn, they did not have much time to enjoy life as much as possible.",
+    "output": "semantic coherence: 8, edit level: 7, fluency: 7, overall: 7",
+    "id": 191,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: This arguement is not only true now, it is since ages, i want to talk on a live example of Sir., corrected sentence: This argument is not only true now, it has always been.",
+    "output": "semantic coherence: 6, edit level: 9, fluency: 10, overall: 8",
+    "id": 195,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Last one is they have to study about disease which means that will be save., corrected sentence: Last, they have to study about disease, which means it will be saved.",
+    "output": "semantic coherence: 5, edit level: 6, fluency: 7, overall: 6",
+    "id": 199,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: I think it is very hard to distribute the point and to make every one to understand, because when few poeple started to do so, they would think it is not fair at all, they are the few who are suffering, other people cannot get it and continue doing the same thing, it just make those people thinks stupid., corrected sentence: I think it is very hard to describe the point and to make everyone understand, because when a few people start to do so, they will think it is not fair at all, that they are the few who are suffering, and other people will not get it and will continue doing the same thing; it just makes those people think stupidly.",
+    "output": "semantic coherence: 8, edit level: 9, fluency: 8, overall: 8",
+    "id": 201,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Maybe at the beginning, but time after timer other animals in the inviroment will choose them as their new food., corrected sentence: Maybe at the beginning, but time after timer other animals in the environment will choose them as their new food.",
+    "output": "semantic coherence: 8, edit level: 6, fluency: 7, overall: 7",
+    "id": 203,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: After all, personally, until now, I try to go on a diet and manage my health condition more carefully., corrected sentence: After all, until now, I tried to stay on a diet and manage my health condition carefully.",
+    "output": "semantic coherence: 9, edit level: 9, fluency: 8, overall: 9",
+    "id": 204,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: As well as the knowledge plays also important role in the life, which can be aquired by the understanding the concepts rather than learning the things., corrected sentence: Knowledge also plays an important role in life as well, which can be acquired by understanding the concepts rather than learning the things.",
+    "output": "semantic coherence: 8, edit level: 9, fluency: 8, overall: 8",
+    "id": 205,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: The heart decease patients shows improvement when they are taking placebo., corrected sentence: The heart disease patients shows improvements when they are taking the placebo.",
+    "output": "semantic coherence: 10, edit level: 6, fluency: 7, overall: 7",
+    "id": 206,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Besides, young people uaually like new-fasion thing, like ipod or mp 3, I can see that main part of young peole ca n't live happily without music in their ear and movies at home., corrected sentence: Besides, young people usually like new-fashion things, like iPods or MP3 players, I can see that the majority of young people can't live happily without music in their ears and movies at home.",
+    "output": "semantic coherence: 9, edit level: 9, fluency: 9, overall: 9",
+    "id": 207,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: This creates people to pier pressure., corrected sentence: This creates people to fall into peer pressure.",
+    "output": "semantic coherence: 4, edit level: 5, fluency: 5, overall: 5",
+    "id": 209,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Newer vehicles are something could fly the sky , then we need't annoy about trafic jams ., corrected sentence: Newer vehicles are something that could fly in the sky , then we need not worry about traffic jams .",
+    "output": "semantic coherence: 7, edit level: 9, fluency: 5, overall: 5",
+    "id": 210,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: While the child spends about five hours or less with his parents , and whenever that child wants to go out he will most probably go out with his friends which are his classmates , so most of his school life will be spent with his classmates , and this will have a great affect on his personality which will determine the way the child will react towards his school and will determine how he will use his life ., corrected sentence: While the child spends about five hours or less with his parents , and whenever that child wants to go out he will probably go out with his friends which are classmates , so most of his school life will be spent with his classmates and this will have a great impact on his personality which will determine the way the child will react towards his school and how he will live out his life .",
+    "output": "semantic coherence: 9, edit level: 8, fluency: 8, overall: 8",
+    "id": 214,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: I believe that the number of cars may decrease in twenty years ' time for some reasons ., corrected sentence: I believe that the number of cars may decrease in 2 0 years for certain reasons .",
+    "output": "semantic coherence: 6, edit level: 9, fluency: 6, overall: 6",
+    "id": 217,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: A perfect example of Real Politik was when Bismarck manipulated the letter written by the king and sent it to the French emperor Napoleon III ., corrected sentence: A perfect example of real politics , was when Bismark manipulated the letter written by the king and sent it to the French emperor Napoleon III .",
+    "output": "semantic coherence: 6, edit level: 4, fluency: 5, overall: 5",
+    "id": 218,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: But the owner that posses one car dealer shop offert to him other job , with better conditions and benefits ., corrected sentence: But the owner that possesses one car dealer shop offered to him the other job with better conditions and benefits .",
+    "output": "semantic coherence: 8, edit level: 10, fluency: 7, overall: 7",
+    "id": 220,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: For the older , the phone , the only funciton , in some means , is a job , a project , a imper wich master call on him with the related to the jobs ., corrected sentence: For the older phone , the only function , in some means , is a job or a project , so it 's important which master calls on him with the related jobs .",
+    "output": "semantic coherence: 4, edit level: 10, fluency: 4, overall: 4",
+    "id": 224,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: According to me , in order to start the carrier through the success it`s importand to have a solid base , that means knowledge and experience ., corrected sentence: According to me , in order to start the carrier through its ' success , it`s important to have a solid base , that means knowledge and experience .",
+    "output": "semantic coherence: 7, edit level: 10, fluency: 7, overall: 7",
+    "id": 226,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Yes that 's right but there are some young people people think about the idealism of his country about their comunities in Indonesia about their friend who ca n't eat , who ca n't go to school ., corrected sentence: Yes , that 's right but , there are some young people who people think about the idealism of their country , about their communities in Indonesia , about their friends who ca n't eat and who ca n't go to school .",
+    "output": "semantic coherence: 9, edit level: 7, fluency: 6, overall: 7",
+    "id": 229,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: However , after prescribed burning , the forests can grow up plentiful , and farmers can get works more than before ., corrected sentence: However , after prescribed burning , the forests can grow up plentiful , and farmers can work more than before .",
+    "output": "semantic coherence: 9, edit level: 5, fluency: 7, overall: 7",
+    "id": 235,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: maybe be doing what they already know how to do well is better than to b enneoyed with something sounds news, corrected sentence: Maybe doing what they already know how to do is better than to be annoyed with something new .",
+    "output": "semantic coherence: 9, edit level: 9, fluency: 8, overall: 8",
+    "id": 237,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Hence from the very beginning children form this hesitancy from interaction with other people which time only solidifies ., corrected sentence: Hence from the very beginning children form this hesitancy from interaction with other people which time only solidifies .",
+    "output": "semantic coherence: 10, edit level: 10, fluency: 6, overall: 7",
+    "id": 240,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Facts are learned by experinces ., corrected sentence: Facts are learned by experinces .",
+    "output": "semantic coherence: 10, edit level: 10, fluency: 1, overall: 2",
+    "id": 241,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: In my opinion , if they start one subject , never give up ., corrected sentence: In my opinion , if they start one subject , never give up .",
+    "output": "semantic coherence: 10, edit level: 10, fluency: 7, overall: 7",
+    "id": 242,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: This contradicts the reading passage 's that it has bad influences to economics ., corrected sentence: This contradicts the passage that it is a bad influence to economics .",
+    "output": "semantic coherence: 8, edit level: 10, fluency: 7, overall: 7",
+    "id": 244,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: The bass is not only predetor for menhaden , so if people catch more basses the population of another fishes also will grow up ., corrected sentence: The bass is not only a predator for the manhaden , so if people catch more bass , the popular of other fish will also grow .",
+    "output": "semantic coherence: 9, edit level: 7, fluency: 8, overall: 8",
+    "id": 246,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: This shows that people are aware of the disadvantages of getting old &raspsquo; among them getting less pleasure from life , and try to delay or disguise it in any possible way ., corrected sentence: This shows that people are aware of the disadvantages of getting old , and getting less pleasure from life , and try to delay or disguise it in any possible way .",
+    "output": "semantic coherence: 8, edit level: 7, fluency: 6, overall: 6",
+    "id": 247,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: I stated to have been interest in math , I spent lot of time to solve math problemes and I got good score at exam , it make have more passion about math ., corrected sentence: I started to have an interest in math , and spent a lot of time solving math problems , and I got a good score on exams , it makes me have more passion about math .",
+    "output": "semantic coherence: 10, edit level: 6, fluency: 8, overall: 8",
+    "id": 248,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Even after school he has to participate in games and other extra curricular activities that are compulsory to attend ., corrected sentence: Even after school , he has to participate in games , and other extra curricular activities , that are compulsory to attend .",
+    "output": "semantic coherence: 10, edit level: 7, fluency: 7, overall: 7",
+    "id": 250,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Even though the place I went was Kyoto which is most beautiful city in Japan and they have most valuable and interesting temples , nothing really remein in my mind after the trip because I was just part of the group and following a tour guide without thinking ., corrected sentence: Even though the place I went was Kyoto , which is the most beautiful city in Japan , they have interesting temples , nothing really remains in my mind after the trip because I was just part of a group following a tour guide without thinking .",
+    "output": "semantic coherence: 10, edit level: 8, fluency: 8, overall: 8",
+    "id": 252,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Board knowledge on may subjects is not possiable to acqurie ., corrected sentence: Broad knowledge on may subjects is not possible to acquire .",
+    "output": "semantic coherence: 8, edit level: 7, fluency: 8, overall: 7",
+    "id": 254,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: I also think that the AD is a method to feel happy the people , because you can dream ..., corrected sentence: I also think that the AD is a method to feel happy for people , because you can dream .",
+    "output": "semantic coherence: 10, edit level: 10, fluency: 7, overall: 7",
+    "id": 256,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: however , his trying still bring him to success, corrected sentence: However , his trying still brings him to success .",
+    "output": "semantic coherence: 9, edit level: 9, fluency: 8, overall: 8",
+    "id": 257,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Since I was in a group , I should respect the group rule ., corrected sentence: Since I was in the group , I should have respected the group rule .",
+    "output": "semantic coherence: 9, edit level: 10, fluency: 10, overall: 9",
+    "id": 259,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: One good way to be always safe and have a good time is to travel with a group and chose a good tour guide ., corrected sentence: One good way to always be safe and have a good time is to travel with a group and chose a good tour guide .",
+    "output": "semantic coherence: 10, edit level: 10, fluency: 7, overall: 7",
+    "id": 261,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: The lecturer against the authour 's insistments following reasons ., corrected sentence: The lecturer is against the authors ' statements for the following reasons :",
+    "output": "semantic coherence: 8, edit level: 9, fluency: 9, overall: 8",
+    "id": 262,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: In addition , once he told me that he will never take risks of doing other works because he 's been working for it for 1 2 years and he is already &raspsquo; fluent &raspsquo; at it ., corrected sentence: In addition , he once told me that he will never take the risk of doing other works because he 's been working st it for 1 2 years and he is already &raspsquo; fluent &raspsquo; at it .",
+    "output": "semantic coherence: 10, edit level: 6, fluency: 6, overall: 6",
+    "id": 264,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: It usually makes them to be more postive to do it ., corrected sentence: It usually makes them be more positive about doing it .",
+    "output": "semantic coherence: 9, edit level: 10, fluency: 6, overall: 7",
+    "id": 266,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: That means people have something that is specializing in one subject could get more chance of hirring ., corrected sentence: That means people who specialize in one subject could have a better chance of being hired.",
+    "output": "semantic coherence: 9, edit level: 9, fluency: 9, overall: 9",
+    "id": 279,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: That means people have something that is specializing in one subject could get more chance of hirring ., corrected sentence: That means people specializing in one subject could get a higher chance of hiring.",
+    "output": "semantic coherence: 8, edit level: 8, fluency: 7, overall: 7",
+    "id": 280,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: He don't like to eat no vegetables ., corrected sentence: He doesn't like to eat any vegetables.",
+    "output": "semantic coherence: 7, edit level: 6, fluency: 5, overall: 6",
+    "id": 318,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: She gots a lot of friends and she very popular ., corrected sentence: She has a lot of friends and she's very popular.",
+    "output": "semantic coherence: 8, edit level: 7, fluency: 6, overall: 7",
+    "id": 319,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: The movie was so good that I wanna see it again ., corrected sentence: The movie was so good that I want to see it again.",
+    "output": "semantic coherence: 9, edit level: 7, fluency: 8, overall: 7",
+    "id": 320,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  }, 
+  {
+    "input": "original sentence: The company is focus on providing excellent service ., corrected sentence: The company focuses on providing excellent service.",
+    "output": "semantic coherence: 9, edit level: 7, fluency: 8, overall: 7",
+    "id": 321,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: The teacher said that the exam will be hard and we should studied hard ., corrected sentence: The teacher said that the exam would be hard and we should study hard.",
+    "output": "semantic coherence: 8, edit level: 7, fluency: 6, overall: 7",
+    "id": 322,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: I was so tired that I couldn't hardly keep my eyes open ., corrected sentence: I was so tired that I could hardly keep my eyes open.",
+    "output": "semantic coherence: 7, edit level: 8, fluency: 6, overall: 7",
+    "id": 323,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: The car was so fast that it run out of control ., corrected sentence: The car was so fast that it ran out of control.",
+    "output": "semantic coherence: 9, edit level: 7, fluency: 8, overall: 7",
+    "id": 324,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: The students was very quiet during the exam ., corrected sentence: The students were very quiet during the exam.",
+    "output": "semantic coherence: 10, edit level: 10, fluency: 9, overall: 9",
+    "id": 325,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: The company has a lot of problem with their new software ., corrected sentence: The company has a lot of problems with their new software.",
+    "output": "semantic coherence: 10, edit level: 10, fluency: 9, overall: 9",
+    "id": 326,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: The teacher explained the math problem but the students didn't understanded it ., corrected sentence: The teacher explained the math problem, but the students didn't understand it.",
+    "output": "semantic coherence: 9, edit level: 8, fluency: 8, overall: 8",
+    "id": 327,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: But it dengerous , because some driver make trobull with other driver and they when some driver crash their car then streets are busy ., corrected sentence: But it is dangerous because some drivers make trouble with other drivers and then the drivers crash their cars when the streets are busy .",
+    "output": "semantic coherence: 8, edit level: 7, fluency: 8, overall: 7.6",
+    "id": 339,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Because it is allready a fixed data so nobody can creat problem with this type of litreture ., corrected sentence: Because it is already fixed data , nobody can create a problem with this type of literature .",
+    "output": "semantic coherence: 9, edit level: 8, fluency: 9, overall: 8.6",
+    "id": 340,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Also , the professor indicates prescribed fire should be carful when we use prescribed fire solution ., corrected sentence: Also , the professor indicates that we should be careful when we use the prescribed fire solution .",
+    "output": "semantic coherence: 9, edit level: 7, fluency: 9, overall: 8.3",
+    "id": 341,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: If they cannot pay the high prices any more , people have to change into a bus or a train ., corrected sentence: If they cannot pay the high prices anymore , people will have to change to a bus or train .",
+    "output": "semantic coherence: 9, edit level: 7, fluency: 9, overall: 8.3",
+    "id": 342,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: This will reduce the pollutions caused y the carbones from the cars ., corrected sentence: This will reduce the pollution caused by carbon from the cars .",
+    "output": "semantic coherence: 9, edit level: 8, fluency: 10, overall: 9",
+    "id": 343,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Moreover they have to learn aboue advance course material ., corrected sentence: Moreover , they have to learn about advanced course material .",
+    "output": "semantic coherence: 10, edit level: 8, fluency: 10, overall: 9",
+    "id": 344,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: The age , in my view , sometimes is a barrier to do somethings in life ., corrected sentence: Sometimes age , in my view , is a barrier to some things in life .",
+    "output": "semantic coherence: 9, edit level: 7, fluency: 10, overall: 9",
+    "id": 345,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: I believe , that the product 's quality mentioned in the shops are exactly the same as given in the adds ., corrected sentence: I believe that the product 's quality mentioned in the shops is exactly the same as given in the ads .",
+    "output": "semantic coherence: 10, edit level: 8, fluency: 10, overall: 9",
+    "id": 346,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: However , a lot of reasons explain about that the placebo effect does ., corrected sentence: However , a lot of reasons explain what the placebo effect does .",
+    "output": "semantic coherence: 8, edit level: 8, fluency: 9, overall: 8",
+    "id": 348,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: In todays world there is a high and almost unreplenishable thirst for change ., corrected sentence: In today 's world , there is a high and almost insatiable thirst for change .",
+    "output": "semantic coherence: 9, edit level: 7, fluency: 10, overall: 8.67",
+    "id": 349,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: I the same other people see many tims on TV rich people are intrested in politica , sports new technologies and also in spaise ., corrected sentence: I 've seen many times on TV the same people , rich people , who are interested in politics , sports , new technologies , and also in space .",
+    "output": "semantic coherence: 7, edit level: 7, fluency: 8, overall: 7.33",
+    "id": 351,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: As a result , studies in britain have shown that fluoride increases the activity can lead to more bone density and therefore less bone fractures among the elderly ., corrected sentence: As a result , studies in Britain have shown that fluoride can lead to more bone density , and therefore fewer bone fractures among the elderly .",
+    "output": "semantic coherence: 8, edit level: 8, fluency: 9, overall: 8.33",
+    "id": 352,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: As on when i started completing my home work on time i gradually improved ., corrected sentence: When I started completing my homework on time , I gradually improved .",
+    "output": "semantic coherence: 8, edit level: 9, fluency: 10, overall: 9",
+    "id": 354,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: becase if study in this way of cours , I will gante so much , I also will have alot of information the book I study ., corrected sentence: Because if I study in this way , I will gain so much , and I also will have a lot of information from the books .",
+    "output": "semantic coherence: 7, edit level: 8, fluency: 9, overall: 8",
+    "id": 355,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: for example , if you are attempting to study arts and scienses and to get equalifications in both , you are extraordinary creation ., corrected sentence: For example , if you are attempting to study arts and sciences , and are trying to get qualifications in both , you are an extraordinary creation .",
+    "output": "semantic coherence: 8, edit level: 8, fluency: 9, overall: 8",
+    "id": 357,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: So in this field it is very importnat to understand all concepts and idease which they gave us and use to solve problems ., corrected sentence: So in this field , it is very important to understand all the concepts and ideas they gave us and use them to solve problems .",
+    "output": "semantic coherence: 9, edit level: 8, fluency: 9, overall: 8.6",
+    "id": 359,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: It is also take risks raher than only doing ., corrected sentence: It is also necessary to take risks rather than just doing what you are supposed to .",
+    "output": "semantic coherence: 7, edit level: 7, fluency: 8, overall: 7.3",
+    "id": 360,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: There will be a technological development in the future , but that will only promote the use of public transportation system , but not car ., corrected sentence: There will be a technological development in the future , but it will only promote the use of public transportation systems , not personal cars .",
+    "output": "semantic coherence: 9, edit level: 8, fluency: 9, overall: 8.7",
+    "id": 361,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Not being with a guide gives you the liberty to visit the places you want to visit at your own pace and with the liberty to deliberate to any place you want to go ., corrected sentence: Traveling without a guide gives you the liberty to visit places you want to visit at your own pace and plan the trips you want to take .",
+    "output": "semantic coherence: 8, edit level: 7, fluency: 9, overall: 8",
+    "id": 362,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: Usually in the advertisements a presentable face is used they try to present some modals , nice babies , known faces as sports men , only to let the product looks better than it was ., corrected sentence: Usually in advertisements , a presentable face is used , such as models , nice babies , or famous sportsmen , just so that the product looks better than it is .",
+    "output": "semantic coherence: 9, edit level: 7, fluency: 8, overall: 8",
+    "id": 363,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  },
+  {
+    "input": "original sentence: and then , makers of cars need to develop the systems for safe almost completely ., corrected sentence: Then , auto makers need to develop systems for almost complete safety .",
+    "output": "semantic coherence: 9, edit level: 7, fluency: 10, overall: 8.5",
+    "id": 366,
+    "instruction": "You're a meticulous sentence revision quality assessor with a knack for evaluating the effectiveness of grammar error corrections. You analyze and grade sentences based on three-step criteria: semantic coherence, editing level and fluency."
+  }
+]
