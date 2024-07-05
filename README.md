@@ -6,6 +6,8 @@
 
 This repository contains the code and data associated with the paper: **"DSGram: Dynamic Weighting Sub-Metrics for Grammatical Error Correction in the Era of Large Language Models"** by Jinxiang Xie, Yilin Li, Xunjian Yin, and Xiaojun Wan.
 
+![图片](https://github.com/jxtse/GEC_Metrics_LLM/blob/main/Example_page-0001.jpg)
+
 ## Paper Abstract
 
 Evaluating the performance of GEC models has become increasingly challenging due to the divergence between LLM-based corrections and gold references. Traditional metrics often fail to capture these nuances, leading to unreliable evaluations. DSGram introduces a dynamic weighting mechanism that incorporates Semantic Coherence, Edit Level, and Fluency to provide a more robust evaluation. Using the Analytic Hierarchy Process (AHP) in conjunction with LLMs, DSGram dynamically adjusts the weights of these criteria based on the evaluation context, resulting in a more nuanced and effective evaluation framework. Experimental results on datasets like CoNLL-2014 and BEA-2019 demonstrate the effectiveness of DSGram.
