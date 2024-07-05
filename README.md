@@ -26,23 +26,6 @@ Evaluating the performance of GEC models has become increasingly challenging due
   - `utils.py`: Utility functions for data processing and scoring.
 - `results/`: Directory to store the evaluation results.
 
-## Installation
-
-To run the code in this repository, you need to have Python 3.x installed. You can install the required packages using:
-
-```bash
-pip install -r requirements.txt
-```
-
-## Usage
-
-1. **Prepare Data**: Place your datasets in the `data/` directory.
-2. **Run Evaluation**: Execute the main evaluation script.
-   
-   ```bash
-   python src/evaluation.py --input data/test_set.txt --output results/evaluation_results.txt
-   ```
-
 ## Citation
 
 If you use DSGram in your research, please cite the following paper:
@@ -55,3 +38,6 @@ If you use DSGram in your research, please cite the following paper:
   year={2024}
 }
 ```
+
+# Tech Used
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
